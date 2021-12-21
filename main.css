@@ -106,3 +106,51 @@ nav{
 .margen2{
     margin: 20px;
 }
+.margen-bottom{
+    margin-bottom: 50px;
+}
+.suscribe{
+    width: 380px;
+}
+.inscripcion{
+    margin-top: 50px;
+}
+.text-form p{
+    margin-top: 10px;
+    margin-bottom: 35px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+.form input{
+    background: #F4F4F4;
+    border: 1px solid #E8E8E8;
+    border-radius: 39px;
+    padding: 19px 35px;
+    margin: 12px 0px;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-weight: 800;
+}
+.form button{
+    background: #2091F9;
+    border-radius: 35px;
+    padding: 17px 35px;
+    margin: 12px 0px;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    font-weight: 800;
+    border: none;
+}
+footer{
+    margin: 50px 0;
+}
+.redes {
+    display: flex;
+    justify-content: space-evenly;
+}
+.text-form{
+    margin-bottom: 0px;
+}
