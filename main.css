@@ -154,3 +154,80 @@ footer{
 .text-form{
     margin-bottom: 0px;
 }
+.testimonios{
+    margin: 150px 0 100px 0;
+}
+.titulo{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    padding: 33.814px 42.2674px;
+    background: white;
+    box-shadow: 0px 10.9895px 16.0616px rgba(255, 255, 255, 0.07);
+    border-radius: 8.45349px;
+    color: #374754;
+    margin-bottom: 60px;
+}
+.cards-testimonios{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cards-testimonios h5, .cards-testimonios h6{
+    margin: 10px 0;
+}
+.cards-testimonios p{
+    text-align: justify;
+}
+.precios{
+    margin: 100px 0 150px;
+}
+.titulo-desc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 50px;
+}
+.titulo-desc h1{
+    margin-bottom: 10px;
+}
+.titulo-desc p{
+    margin-top: 0;
+}
+.precio-mes{
+    display: flex;
+    align-items: center;
+}
+.mensual h5, .mensual p{
+    margin: 0;
+}
+.mensual h1{
+    margin: 0px 5px;
+}
+.container-mes{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+.boton-año{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.mensual button{
+    color: white;
+    text-align: center;
+    background: #2091F9;
+    border-radius: 35px;
+    font-family: 'Nunito', sans-serif;
+    padding: 18px 38px;
+    border: none;
+}
