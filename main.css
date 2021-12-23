@@ -65,13 +65,13 @@ nav{
     text-align: center;
 }
 .muestra-pc img{
-    width: 380px;
+    width: 100vw;
 }
 .ventajas1{
     margin: 80px 0;
 }
 .ventaja{
-    width: 380px;
+    width: 100vw;
 }
 .icono{
     display: flex;
@@ -110,7 +110,7 @@ nav{
     margin-bottom: 50px;
 }
 .suscribe{
-    width: 350px;
+    width: 100vw;
 }
 .inscripcion{
     margin-top: 50px;
