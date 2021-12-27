@@ -5,7 +5,7 @@ body {
     color: white;
 }
 header{
-    height: 100vh;
+    height: auto;
     background-image: url('./assets/fondo-header-movil.png');
     background-position: bottom;
     background-size: cover;
